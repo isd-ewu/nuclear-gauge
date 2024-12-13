@@ -1,0 +1,32 @@
+{
+  "version": "3.74.30180.0",
+  "course_id": "5Zc0yd1kRPn",
+  "title": "Untitled1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "360"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5fzJpOWZSaq",
+      "title": "cover",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5aGdDawrJhf",
+      "title": "360",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 1940,
+    "height": 1100
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}
